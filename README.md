@@ -36,7 +36,7 @@ Before you begin, ensure you have the following prerequisites:
 
 1. **Clone the repository**
 ```bash   
-git clone https://github.com/kamalj57/KEC-VMS.git
+github.com/Karthick1242004/KEC_Updated_VMS
 ```
 2. **Install the necessary dependencies**
 ```bash
